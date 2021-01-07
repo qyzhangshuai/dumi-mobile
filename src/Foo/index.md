@@ -10,7 +10,7 @@ Demo:
 
 ```tsx
 import React from 'react';
-import { Foo } from 'dumi-mobile';
+import { Foo } from 'z-mobile';
 
 export default () => <Foo title="First Demo" />;
 ```
